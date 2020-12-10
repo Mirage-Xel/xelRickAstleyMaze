@@ -1,1 +1,1 @@
-xelRickAstleyMaze
+#[ModKit Wiki](../../wiki)
